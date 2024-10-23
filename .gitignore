@@ -1,0 +1,6 @@
+
+.gitattributes
+.vs/*
+Binaries/*
+Intermediate/*
+Saved/*
